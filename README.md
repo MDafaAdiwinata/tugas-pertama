@@ -2,7 +2,7 @@
 
 __Mencacat Source Code Perintah Git__
 
-git init                    # Inisialisasi repositori baru
+git init                    # Inisialisasi repositori baru <br>
 git clone <url>             # Menyalin atau mengcopy repositori dari project lain
 git status                  # Menampilkan status perubahan file/repo
 git add <file>              # Menambahkan file ke staging area
